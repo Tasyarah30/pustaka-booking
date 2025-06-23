@@ -20,7 +20,7 @@
 - **PHP** (native)
 - **MySQL**
 - **HTML, CSS, JavaScript**
-- **Bootstrap** (jika digunakan)
+- **Bootstrap**
 
 ---
 
