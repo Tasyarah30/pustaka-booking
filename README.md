@@ -1,33 +1,40 @@
-# What is CodeIgniter
+# 📚 Pustaka Booking – Sistem Informasi Perpustakaan Digital
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+**Pustaka Booking** adalah aplikasi web perpustakaan yang memungkinkan pengguna untuk melihat daftar buku, melakukan booking/peminjaman, serta melihat detail informasi buku. Aplikasi ini dikembangkan sebagai proyek pembelajaran menggunakan PHP dan MySQL.
 
-# Tugas
+**Pustaka Booking** is a web-based library system that allows users to view books, book loans, and see book details. This project was developed using PHP and MySQL.
 
-- Membuat Form Matakuliah ✔
-- Membuat Template Sederhana ✔
+---
 
-# Website Pustaka Booking
+## ✨ Fitur Utama | Main Features
 
-- Membuat Database ✔
-- Membuat Admin Dashboard ✔
-- Membuat Login/Daftar Admin ✔
-- Menghubungkan Admin Dashboard dengan Database ✔
-- Menerapkan Admin Dashboard ✔
-- Membuat Fontend ✔
-- Membuat Login/Daftar user ✔
-- Finish ✔
+- 📖 Menampilkan daftar buku lengkap
+- 🔍 Lihat detail informasi buku (judul, penulis, penerbit, tahun)
+- 🛒 Booking atau peminjaman buku
+- 👤 Autentikasi user (login, daftar)
+- 📦 Admin panel (opsional, jika ada)
 
-# Frontend
+---
 
-![Frontend](ss/Frondend.png)
+## 🛠️ Teknologi yang Digunakan | Technologies Used
 
-# Backend
+- **PHP** (native)
+- **MySQL**
+- **HTML, CSS, JavaScript**
+- **Bootstrap** (jika digunakan)
 
-![Backend](ss/Backend.png)
+---
+
+## 🎯 Tujuan Proyek
+
+Proyek ini dibuat sebagai latihan penerapan CRUD dan sistem manajemen data berbasis web.
+
+This project was created to practice basic CRUD operations and web-based data management systems.
+
+---
+
+## 👩‍💻 Developer
+
+**Tasya Rahmadina Zahrah**  
+Universitas BSI  
+Proyek Pemrograman Web / Basis Data
