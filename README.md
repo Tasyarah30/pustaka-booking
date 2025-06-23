@@ -12,7 +12,6 @@
 - 🔍 Lihat detail informasi buku (judul, penulis, penerbit, tahun)
 - 🛒 Booking atau peminjaman buku
 - 👤 Autentikasi user (login, daftar)
-- 📦 Admin panel (opsional, jika ada)
 
 ---
 
